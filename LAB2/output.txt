@@ -1,0 +1,64 @@
+Enter a series of space-separated integers: 5 2 8 1 9
+Tuples are immutable and cannot be modified.
+Original Dictionary: {5: 25, 2: 4, 8: 64, 1: 1, 9: 81}
+Enter your student number: s28537
+
+Content of the file:
+Student Number: s28537
+
+Original List: [5, 2, 20, 1, 9, 10]
+Original Tuple: (5, 2, 8, 1, 9)
+Original Set: {1, 2, 5, 8, 9}
+Original Dictionary: {5: 25, 2: 4, 1: 1, 9: 81, 11: 121}
+
+Manipulated List: [5, 2, 20, 1, 9, 10]
+Manipulated Tuple: (5, 2, 8, 1, 9)
+Union of Set: {1, 2, 5, 8, 9, 10, 11, 12}
+Intersection of Set: {5}
+Difference of Set: {1, 2, 10, 9}
+Updated Dictionary: {5: 25, 2: 4, 1: 1, 9: 81, 11: 121}
+
+List to Tuple: (5, 2, 20, 1, 9, 10)
+List to Set: {1, 2, 5, 9, 10, 20}
+List to Dictionary: {5: 25, 2: 4, 20: 400, 1: 1, 9: 81, 10: 100}
+Tuple to List: [5, 2, 8, 1, 9]
+Tuple to Set: {1, 2, 5, 8, 9}
+Tuple to Dictionary: {5: 25, 2: 4, 8: 64, 1: 1, 9: 81}
+Set to List: [1, 2, 5, 8, 9, 10, 11, 12]
+Set to Tuple: (5,)
+Set to Dictionary: {1: 1, 2: 4, 10: 100, 9: 81}
+Dictionary to List: [5, 2, 1, 9, 11]
+Dictionary to Tuple: (5, 2, 1, 9, 11)
+Dictionary to Set: {1, 2, 5, 9, 11}
+
+Number of lines in the file: 26
+
+File content after modification:
+Student Number: s28537
+
+Original List: [5, 2, 20, 1, 9, 10]
+Original Tuple: (5, 2, 8, 1, 9)
+Original Set: {1, 2, 5, 8, 9}
+Original Dictionary: {5: 25, 2: 4, 1: 1, 9: 81, 11: 121}
+
+Manipulated List: [5, 2, 20, 1, 9, 10]
+Manipulated Tuple: (5, 2, 8, 1, 9)
+Union of Set: {1, 2, 5, 8, 9, 10, 11, 12}
+Intersection of Set: {5}
+Difference of Set: {1, 2, 10, 9}
+Updated Dictionary: {5: 25, 2: 4, 1: 1, 9: 81, 11: 121}
+
+List to Tuple: (5, 2, 20, 1, 9, 10)
+List to Set: {1, 2, 5, 9, 10, 20}
+List to Dictionary: {5: 25, 2: 4, 20: 400, 1: 1, 9: 81, 10: 100}
+Tuple to List: [5, 2, 8, 1, 9]
+Tuple to Set: {1, 2, 5, 8, 9}
+Tuple to Dictionary: {5: 25, 2: 4, 8: 64, 1: 1, 9: 81}
+Set to List: [1, 2, 5, 8, 9, 10, 11, 12]
+Set to Tuple: (5,)
+Set to Dictionary: {1: 1, 2: 4, 10: 100, 9: 81}
+Dictionary to List: [5, 2, 1, 9, 11]
+Dictionary to Tuple: (5, 2, 1, 9, 11)
+Dictionary to Set: {1, 2, 5, 9, 11}
+
+Additional line added to the file.
